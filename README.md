@@ -34,10 +34,10 @@ After setting up departments "Sys Admins", "Online Banking", and "Tech Support",
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="users" src="https://github.com/user-attachments/assets/01b0acb8-2cb2-4236-b8cc-00594922d9d8" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+These are the three agents created for this ticket system simulation. I later gave them roles in a differing hierarchy allowing one to have a supervising position over the other, this allowed one to delegate tickets to different departments. This process helped me check to see whether different departments had access to tickets that weren't meant for them, troubleshooting any issues in the process.
 </p>
 <br />
 
